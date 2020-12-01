@@ -11,7 +11,7 @@
 
 Algoritmo:  LBPHFaceRecognizer
 
-PCA number: 1, accuracy score: 96.75%<br>
+<p>PCA number: 1, accuracy score: 96.75%<br>
 PCA number: 2, accuracy score: 96.75%<br>
 PCA number: 3, accuracy score: 96.75%<br>
 PCA number: 4, accuracy score: 96.75%<br>
