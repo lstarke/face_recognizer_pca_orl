@@ -3,8 +3,11 @@
 ### Libraries used in this project:
 
 -OpenCV
+
 -Numpy
+
 -Matplot
+
 -Sklearn
 
 ### Results
