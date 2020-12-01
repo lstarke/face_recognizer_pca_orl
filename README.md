@@ -31,10 +31,10 @@ PCA number: 17, accuracy score: 88.62%<br>
 PCA number: 18, accuracy score: 87.8%<br>
 PCA number: 19, accuracy score: 90.24%<br>
 PCA number: 20, accuracy score: 91.06%<br>
---------------------------------------------------
-Algoritmo:  EigenFaceRecognizer
+<p>--------------------------------------------------<>br
+<p>Algoritmo:  EigenFaceRecognizer<>br
 
-PCA number: 1, accuracy score: 12.2%<br>
+<p>PCA number: 1, accuracy score: 12.2%<br>
 PCA number: 2, accuracy score: 45.53%<br>
 PCA number: 3, accuracy score: 75.61%<br>
 PCA number: 4, accuracy score: 88.62%<br>
@@ -54,7 +54,7 @@ PCA number: 17, accuracy score: 94.31%<br>
 PCA number: 18, accuracy score: 94.31%<br>
 PCA number: 19, accuracy score: 94.31%<br>
 PCA number: 20, accuracy score: 95.12%<br>
---------------------------------------------------
+<p>--------------------------------------------------<br>
 
 ### How to
 
